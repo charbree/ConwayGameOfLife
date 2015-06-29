@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int main()
+int main() 
 {
     //Variable Declaration
     int loop = 1;
