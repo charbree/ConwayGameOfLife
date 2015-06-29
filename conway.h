@@ -1,7 +1,7 @@
 #ifndef CONWAY_H
 #define CONWAY_H
 
-using namespace std;
+using namespace std; 
 
 //Constant size for rows and columns of the array.
 const int height = 22;
